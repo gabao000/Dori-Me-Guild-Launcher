@@ -1,12 +1,7 @@
-# Dori Me Launcher
+# Raider Hub
 
-## Changes v0.0.3.1
+## Changes v0.0.34
 
+### Blue Posts Screen
 
-### Login screen and app icon
-
-Login screen and app icon updated.
-
-### My Profile screen
-
-My Profile Screen is now updated with some example data and working buttons to WoW Armory, Raider.io and WarcraftLogs.
+Blue posts screen has been updated to show future design and messages.
